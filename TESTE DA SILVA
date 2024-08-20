@@ -1,0 +1,11 @@
+import MYTOOLS
+
+print(MYTOOLS.PI_INT)
+print(MYTOOLS.E_INT)
+
+a=MYTOOLS.pi_real(6)
+b=MYTOOLS.e_real(7)
+
+print(a+b)
+
+
